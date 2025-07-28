@@ -1,7 +1,11 @@
 # 🧬 AI-Genomics: Genetics with Artificial Intelligence Project
 
 ## Description
-Implemented AI for genetic analysis using PyTorch (machine learning framework) with two colleagues, mentored by a PhD geneticist from Universidad de los Andes and a Master's student in Applied Mathematics at Universidad Nacional de Colombia. This project excels in analyzing DNA sequences and classifying them based on discernible motifs.
+Developed a Convolutional Neural Network (CNN)-based AI model to classify DNA sequences as a proof of concept, demonstrating that optimization can significantly accelerate genetic analysis, improve diagnostics, and enable personalized treatment. 
+
+Collaborated with a PhD geneticist (University of the Andes), a Master in Applied Mathematics (National University of Colombia); encoded genetic data using One-Hot Encoding and Pandas, optimized training with PyTorch DataLoaders, and evaluated performance. 
+
+Implemented AI for genetic analysis using PyTorch (machine learning framework). This project excels in analyzing DNA sequences and classifying them based on discernible motifs.
 
 ## Requirements
 - Python 3
