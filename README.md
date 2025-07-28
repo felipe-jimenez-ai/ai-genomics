@@ -14,8 +14,8 @@ Implemented AI for genetic analysis using PyTorch (machine learning framework). 
 ## Instructions to Run the Code
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/anjimenezp/AI-Genetics.git
-   cd AI-Genetics
+   git clone https://github.com/felipe-jimenez-ai/ai-genomics.git
+   cd ai-genomics
 
 ## Project Overview
 This repository contains code for a genomics project utilizing artificial intelligence for the classification of DNA sequences. The code includes the following components:
